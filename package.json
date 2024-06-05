@@ -1,0 +1,16 @@
+{
+  "name": "comercial_jops-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Deporte", "Salud", "bienestar", "Natural", "monitor cardiaco", "tecnología", "entrenamiento"],
+  "author": "Javier Perico",
+  "license": "ISC",
+  "description": "Comercialización de productos 100% naturales, tecnológicos y formación en monitoreo cardíaco",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.4.1"
+  }
+}
